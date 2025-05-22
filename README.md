@@ -1,1 +1,1 @@
-# Analisi-Algoritma_Project
+# Analisis-Algoritma_Project
